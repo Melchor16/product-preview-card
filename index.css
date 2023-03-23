@@ -29,13 +29,13 @@ main{
     align-content: center;
     align-items: center;
     background-color: white;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .card img{
     max-height: 100%;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
 
 .right-side{
@@ -79,4 +79,40 @@ main{
     line-height: 22px;
 }
 
+.real-price{
+    margin: 0;
+    padding: 20px 15px 10px 25px;
+    color: var(--Dark-cyan);
+    font-family: Fraunces;
+    font-size: 30px;
+}
 
+.previous-price{
+    margin: 0;
+    padding-top: 30px;
+    color: var(--Dark-grayish-blue);
+    font-family: Montserrat;
+    font-size: 13px;
+    text-decoration: line-through;
+}
+
+.add-cart{
+    margin: 20px 35px 20px 35px;
+    padding: 12px;
+    color: white;
+    font-family: Montserrat;
+    background-color: var(--Dark-cyan);
+    border: 0;
+    border-radius: 10px;
+}
+
+.add-cart:hover{
+    background-color: var(--Very-dark-blue);
+    cursor: pointer;
+}
+
+.attribution{
+    font-family: Montserrat;
+    background-color: var(--Cream);
+    font-size: 10px;
+}
