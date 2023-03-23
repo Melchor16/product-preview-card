@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Melchor16/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://melchor16.github.io/product-preview-card/)
 
 ## My process
 
@@ -44,5 +44,3 @@ Users should be able to:
 
 - Website - [Erick Melchor](https://github.com/Melchor16)
 - Frontend Mentor - [@Melchor16](https://www.frontendmentor.io/profile/Melchor16)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
